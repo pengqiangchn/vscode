@@ -1,0 +1,98 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "none",
+    "open-in-browser.default": "Chrome",
+    "files.autoSave": "afterDelay",
+    "editor.tabCompletion": "onlySnippets",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.autoSaveDelay": 60000,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "breadcrumbs.enabled": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "window.menuBarVisibility": "default",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#80CBC4",
+        "activityBar.activeBorder": "#80CBC4",
+        "list.activeSelectionForeground": "#80CBC4",
+        "list.inactiveSelectionForeground": "#80CBC4",
+        "list.highlightForeground": "#80CBC4",
+        "scrollbarSlider.activeBackground": "#80CBC450",
+        "editorSuggestWidget.highlightForeground": "#80CBC4",
+        "textLink.foreground": "#80CBC4",
+        "progressBar.background": "#80CBC4",
+        "pickerGroup.foreground": "#80CBC4",
+        "tab.activeBorder": "#80CBC4",
+        "notificationLink.foreground": "#80CBC4",
+        "editorWidget.resizeBorder": "#80CBC4",
+        "editorWidget.border": "#80CBC4",
+        "settings.modifiedItemIndicator": "#80CBC4",
+        "settings.headerForeground": "#80CBC4",
+        "panelTitle.activeBorder": "#80CBC4",
+        "breadcrumb.activeSelectionForeground": "#80CBC4",
+        "menu.selectionForeground": "#80CBC4",
+        "menubar.selectionForeground": "#80CBC4",
+        "editor.findMatchBorder": "#80CBC4",
+        "selection.background": "#80CBC440"
+    },
+    "materialTheme.accent": "Teal",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "explorer.confirmDelete": false,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "vetur.validation.template": false,
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.format.defaultFormatter.html": "prettier",
+    "editor.wordWrap": "on",
+    "prettier.packageManager": "yarn",
+    "editor.mouseWheelZoom": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "docthis.includeDescriptionTag": true,
+    "[http]": {},
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": true,
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "liveServer.settings.donotVerifyTags": true,
+    "prettier.jsxBracketSameLine": true,
+    "search.followSymlinks": false,
+    
+}
